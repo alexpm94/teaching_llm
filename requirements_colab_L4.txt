@@ -1,0 +1,59 @@
+# Hugging Face
+accelerate==1.10.1
+datasets==3.6.0
+diffusers==0.35.1
+huggingface-hub==0.35.0
+peft==0.17.1
+safetensors==0.6.2
+sentencepiece==0.2.1
+tokenizers==0.21.4
+transformers==4.55.4
+trl==0.22.2
+
+# Entrenamiento eficiente
+bitsandbytes==0.47.0
+einops==0.8.1
+cut-cross-entropy==25.1.1
+unsloth==2025.9.7
+unsloth-zoo==2025.9.9
+
+# Stack PyTorch coherente
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+triton==3.3.1
+xformers==0.0.31
+torchao==0.13.0
+
+# Datos
+numpy==2.2.6
+scipy==1.16.2
+pyarrow==21.0.0
+fsspec==2025.3.0
+pandas==2.2.2
+dill==0.3.8
+multiprocess==0.70.16
+numba==0.61.2
+llvmlite==0.44.0
+
+
+# Procesamiento
+pillow==11.3.0
+opencv-python-headless==4.12.0.88
+soundfile==0.13.1
+soxr==1.0.0
+
+# Utilidades
+tqdm==4.67.1
+regex==2025.9.18
+requests==2.32.4
+pyyaml==6.0.2
+tiktoken==0.11.0
+python-dotenv==1.1.1
+packaging==25.0
+filelock==3.19.1
+
+# APIs opcionales
+openai==1.108.1
+aiohttp==3.12.15
+httpx==0.28.1

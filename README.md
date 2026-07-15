@@ -1,5 +1,7 @@
 # GenAI C1 Project: Teach an LLM to Reason
 
+This notebook is part of the Udacity Generative AI Nanodegree.
+
 This project guides you through teaching an instruction-tuned LLM to reason step‑by‑step using GRPO (Group Relative Policy Optimization). The model learns to break a word into letters and count a specific letter.
 
 Key notebooks and files:
